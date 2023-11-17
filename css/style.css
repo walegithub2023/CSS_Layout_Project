@@ -1,0 +1,787 @@
+/*...Page Header styling begins...*/
+
+.grid-container{
+    display: grid;
+    grid-template-columns: 320px 810px auto;
+}
+
+.grid-item1{
+
+}
+
+.grid-item2{
+    padding-top:15px;
+}
+
+.grid-item3{
+
+}
+
+a{
+    text-decoration: none;
+    margin-right:7px;
+    color:grey;
+    font-size: 17px;
+}
+
+#About{
+    color: #00b39b;
+    text-decoration: none;
+    background-color: rgba(0, 0, 0, 0);
+    color: rgb(0, 179, 155);
+    cursor: pointer;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    padding-top:10px;  
+}
+/*...Page Header styling ends...*/
+
+
+
+
+
+/*...Page Section1 styling begins...*/
+
+.flexbox-container1{
+    display: flex;
+    margin-top:80px;
+    justify-content: center;
+}
+/*...Page Section1 styling ends...*/
+
+
+
+
+
+/*...Page Section2 styling begins...*/
+
+.flexbox-container2{
+    display: flex;
+    margin-top:20px;
+    justify-content: center;
+}
+
+
+.grid-item5{
+    color: #00b39b;
+    font-size: 32.9px;
+    font-family: Work Sans, Arial, sans-serif;
+    font-weight: bold;
+    letter-spacing: -0.3px;
+}
+/*...Page Section2 styling ends...*/
+
+
+
+/*...Page Section3 styling begins...*/
+
+.flexbox-container3{
+    display: flex;
+    margin-top:50px;
+    justify-content: center;
+}
+
+.grid-item6{
+    width:30%;
+    margin-right: 60px;
+    color: rgb(116, 116, 116);
+    font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size:16px;
+    height:114.271px;
+    line-height:22.8571px;
+
+}
+
+
+.grid-item7{
+    width:30%;
+    margin-right: 60px;
+    color: rgb(116, 116, 116);
+    font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size:16px;
+    height:114.271px;
+    line-height:22.8571px;
+}
+/*...Page Section3 styling ends...*/
+
+
+
+
+
+/*...Page Section4 styling begins...*/
+
+.flexbox-container4{
+    display: flex;
+    margin-top:75px;
+    justify-content: center;
+}
+
+.grid-item8{
+    margin-right:20px;
+    width:230px;
+    height:280px;
+    padding:40px 40px 40px 40px; 
+    color:white;
+    background-color: rgb(0, 204, 177);
+    font-size:23px;
+    text-align: justify;
+    border-radius:10px;
+}
+
+hr{
+   
+}
+
+
+#for1title{
+    font-size:34.125px;
+    font-weight: bold;
+    color: #fff;
+    margin:10.2375px;
+    font-family: Work Sans, Arial, sans-serif;
+    line-height: 40.95px; 
+}
+
+#for1titleNote{
+    color: rgb(255, 255, 255);
+    display: block;
+    font-family: "Work Sans", Arial, sans-serif;
+    font-size: 21px;
+    font-weight: bold;
+    height: 75.5833px;
+    line-height: 25.2px;
+}
+
+#select1{
+    background-color:rgb(0, 204, 177);
+    color:white;
+    border:1px solid rgb(0, 204, 177);
+    border-bottom:1px solid white;
+    font-size:23px;
+    margin-top:50px;
+    font-family: "Work Sans", Arial, sans-serif;
+    font-weight:bold;
+}
+
+#select2{
+    background-color:#007bff;
+    color:white;
+    border:1px solid #007bff;
+    border-bottom:1px solid white;
+    font-size:23px;
+    margin-top:50px;
+    font-family: "Work Sans", Arial, sans-serif;
+    font-weight:bold;
+}
+
+#select3{
+    background-color:#343a40;
+    color:white;
+    border:1px solid #343a40;
+    font-size:23px;
+    margin-top:3px;
+    margin-bottom:20px;
+    font-family: "Work Sans", Arial, sans-serif;
+    font-weight:bold;
+    border-bottom:1px solid white;
+}
+
+#select4{
+    background-color:#343a40;
+    color:white;
+    border:1px solid #343a40;
+    border-bottom:1px solid white;
+    font-size:23px;
+    margin-top:3px;
+    font-family: "Work Sans", Arial, sans-serif;
+    font-weight:bold;
+}
+
+.grid-item9{
+    margin-right:20px;
+    width:230px;
+    height:280px;
+    padding:40px 40px 40px 40px; 
+    color:white;
+    background-color: #007bff;
+    font-size:23px;
+    text-align: justify;
+    border-radius:10px;
+}
+
+.grid-item10{
+    margin-right:20px;
+    width:230px;
+    height:280px;
+    padding:40px 40px 40px 40px; 
+    color:white;
+    background-color: rgb(27, 39, 52);
+    font-size:23px;
+    text-align: justify;
+    border-radius:10px;
+}
+/*...Page Section4 styling ends...*/
+
+
+/*...Page Section5 styling starts...*/
+
+.flexbox-container5{
+    display: flex;
+    justify-content: center;
+}
+
+.grid-item11{
+    margin-right:120px;
+    width:280px;
+    color:rgb(0, 204, 177);
+    padding:40px 40px 40px 40px; 
+    font-size:23px;
+    text-align: justify;
+    font-family: "Work Sans", Arial, sans-serif;
+    font-weight:bold;
+    line-height:35px;
+}
+
+
+.grid-item12{
+    margin-right:20px;
+    margin-top:0px;
+    width:480px;
+    padding:40px 40px 40px 40px; 
+    color:white;
+    font-size:23px;
+    text-align: justify;   
+}
+
+#manyLogos{
+    margin-right:25px;
+}
+
+.tuotempoClass{
+   
+}
+/*...Page Section5 styling ends...*/
+
+
+
+/*...Page Section6 styling starts...*/
+
+.flexbox-container6{
+    display: flex;
+    justify-content: center;
+    background-color: #d0faf4;
+    height:645px;
+}
+
+.grid-item13{
+    width:450px;
+    color:rgb(0, 204, 177);
+    margin-top:68px;
+    margin-right:150px;
+    font-size:23px;
+    font-family: "Work Sans", Arial, sans-serif;
+    font-weight:bold;
+}
+
+#logocropped{
+margin-top:50px;
+}
+
+#grid-item13-p1{
+    font-weight: bold;
+    color: #00b39b;
+    font-family: "Work Sans", Arial, sans-serif;
+    font-size: 30px;
+}
+
+#grid-item13-p2{
+color: rgb(116, 116, 116);
+font-family: "Work Sans", Arial, sans-serif;
+font-size:15px;
+font-weight: bolder;
+line-height:21.4286px;
+}
+
+.grid-item14{
+    margin-right:50px;
+    margin-top:67px;
+    width:200px;
+    height:500px;
+    font-size:23px;
+    text-align: center;
+    background-color: white;
+    padding-top:25px;
+    
+}
+
+#grid-item14-p4{
+    background-color: #d0faf4;
+    color:#d0faf4;
+}
+
+#grid-item14-p2{
+    color:rgb(0, 179, 155);
+    font-family: "Work Sans", Arial, sans-serif;
+    font-size: 25.8462px;
+    font-weight:bold;
+    height: 56.8611px;
+    letter-spacing: -0.3px;
+    line-height: 28.4308px;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+#grid-item14-p3{
+    color:rgb(116, 116, 116);
+    font-family: Roboto, Arial, sans-serif;
+    font-size: 11.375px;
+    font-weight:300;
+    height: 65px;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    line-height: 16.25px;
+    text-align: center;
+    font-weight: 400;
+    padding:5px;
+}
+
+#grid-item14-p6{
+    color:rgb(0, 179, 155);
+    font-family: "Work Sans", Arial, sans-serif;
+    font-size: 25.8462px;
+    font-weight:bold;
+    height: 56.8611px;
+    letter-spacing: -0.3px;
+    line-height: 28.4308px;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+#grid-item14-p7{
+    color:rgb(116, 116, 116);
+    font-family: Roboto, Arial, sans-serif;
+    font-size: 11.375px;
+    font-weight:300;
+    height: 65px;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    line-height: 16.25px;
+    text-align: center;
+    font-weight: 400;
+}
+
+
+.grid-item15{
+    margin-top:52px;
+    width:200px;
+    height:500px;
+    color:white;
+    font-size:23px;
+    text-align: center;
+    background-color: white;
+    padding-top:25px; 
+}
+
+#grid-item15-p4{
+    background-color: #d0faf4;
+    color:#d0faf4;
+}
+
+#grid-item15-p2{
+    color:rgb(0, 179, 155);
+    font-family: "Work Sans", Arial, sans-serif;
+    font-size: 25.8462px;
+    font-weight:bold;
+    height: 56.8611px;
+    letter-spacing: -0.3px;
+    line-height: 28.4308px;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+#grid-item15-p3{
+    color:rgb(116, 116, 116);
+    font-family: Roboto, Arial, sans-serif;
+    font-size: 11.375px;
+    font-weight:300;
+    height: 65px;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    line-height: 16.25px;
+    text-align: center;
+    font-weight: 400;
+    padding:5px;
+}
+
+#grid-item15-p6{
+    color:rgb(0, 179, 155);
+    font-family: "Work Sans", Arial, sans-serif;
+    font-size: 25.8462px;
+    font-weight:bold;
+    height: 56.8611px;
+    letter-spacing: -0.3px;
+    line-height: 28.4308px;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+#grid-item15-p7{
+    color:rgb(116, 116, 116);
+    font-family: "Roboto", Arial, sans-serif;
+    font-size: 11.375px;
+    font-weight:300;
+    height: 65px;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    line-height: 16.25px;
+    text-align: center;
+    font-weight: 400;
+}
+
+/*...Page Section6 styling ends...*/
+
+
+
+/*...Page Section7 styling starts...*/
+
+.grid-item16{
+    width:100%;
+    color:rgb(0, 179, 155);
+    text-align: center;
+    background-color: white;
+    font-family:"Work Sans", Arial, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    height: 66px;
+    letter-spacing: -0.5px;
+    line-height: 33px;
+    margin-top: 90px;
+    text-align: center;
+  
+}
+
+.grid-item17{
+    width:100%;
+    font-size:23px;
+    text-align: center;
+    background-color: white;
+    color: rgb(116, 116, 116);
+    font-family: "Roboto", Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 23px;
+    margin-top:10px;
+}
+
+/*...Page Section7 styling ends...*/
+
+
+/*...Page Section8 styling starts...*/
+.flexbox-container8{
+    display: flex;
+    justify-content: center;
+    margin-top:130px;
+}
+
+
+.grid-item18{
+    text-align: center;
+    margin-right:12px;
+}
+
+.grid-item18:hover{
+    text-align: center;
+    margin-right:12px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.grid-item19{
+    text-align: center;
+    margin-right:12px;
+}
+
+.grid-item19:hover{
+    text-align: center;
+    margin-right:12px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.grid-item20{
+    text-align: center;
+    margin-right:12px;
+}
+
+.grid-item20:hover{
+    text-align: center;
+    margin-right:12px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.grid-item21{
+    text-align: center;
+    margin-right:12px;
+}
+
+.grid-item21:hover{
+    text-align: center;
+    margin-right:12px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+/*...Page Section8 styling ends...*/
+
+
+/*...Page Section9 styling starts...*/
+.flexbox-container9{
+    display: flex;
+    justify-content: center;
+    margin-top:20px;
+    color: rgb(116, 116, 116);
+    font-family: Roboto, Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+
+.grid-item22{
+    text-align: center;
+    margin-right:110px;
+}
+
+
+.grid-item23{
+    text-align: center;
+    margin-right:60px;
+    
+}
+
+.grid-item24{
+    text-align: center;
+    margin-right:110px;
+}
+
+.grid-item25{
+    text-align: center;
+    margin-right:60px;
+}
+
+.grid-item26{
+    text-align: center;
+    margin-right:110px;
+}
+.grid-item27{
+    text-align: center;
+    margin-right:60px;
+}
+.grid-item28{
+    text-align: center;
+    margin-right:110px;
+}
+.grid-item29{
+    text-align: center;
+}
+
+button{
+    border:1px solid rgb(61, 131, 223);
+    background-color: rgb(61, 131, 223);;
+    border-radius: 4px;
+    color: rgb(255, 255, 255);
+    font-family: "Roboto", Arial, sans-serif;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 800;
+    height: 33.9583px;  
+}
+/*...Page Section9 styling ends...*/
+
+
+/*...Page Section10 styling starts...*/
+
+.flexbox-container10{
+    display: flex;
+    justify-content: center;
+    margin-top:13px;
+}
+
+
+.grid-item30{
+    text-align: center;
+    margin-right:12px;
+}
+
+
+.grid-item30:hover{
+    text-align: center;
+    margin-right:12px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.grid-item31{
+    text-align: center;
+    margin-right:12px;
+}
+
+.grid-item31:hover{
+    text-align: center;
+    margin-right:12px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.grid-item32{
+    text-align: center;
+    margin-right:12px;
+}
+
+.grid-item32:hover{
+    text-align: center;
+    margin-right:12px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.grid-item33{
+    text-align: center;
+    margin-right:12px;
+}
+
+
+.grid-item33:hover{
+    text-align: center;
+    margin-right:12px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+/*...Page Section10 styling ends...*/
+
+
+/*...Page Section11 styling starts...*/
+
+.flexbox-container11{
+    display: flex;
+    justify-content: center;
+    margin-top:20px;
+    color: rgb(116, 116, 116);
+    font-family: Roboto, Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.grid-item34{
+    text-align: center;
+    margin-right:110px;
+}
+
+.grid-item35{
+    text-align: center;
+    margin-right:60px;
+    
+}
+
+.grid-item36{
+    text-align: center;
+    margin-right:110px;
+}
+
+.grid-item37{
+    text-align: center;
+    margin-right:60px;
+}
+
+.grid-item38{
+    text-align: center;
+    margin-right:110px;
+}
+.grid-item39{
+    text-align: center;
+    margin-right:60px;
+}
+.grid-item40{
+    text-align: center;
+    margin-right:110px;
+}
+.grid-item41{
+    text-align: center;
+}
+/*...Page Section11 styling ends...*/
+
+
+
+/*...Page Section12 styling starts...*/
+.grid-item42{
+    text-align: center;
+    margin-top:15px;
+}
+
+#mexico-city:hover{
+   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#mexicoCityButton{
+    margin-left:100px;
+}
+/*...Page Section12 styling ends...*/
+
+
+/*...Page Section13 styling starts...*/
+.grid-item43{
+    text-align: center;
+    margin-top:150px;
+    font-family: "Work Sans", Arial, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    color: rgb(51, 51, 51);
+}
+
+.grid-item44{
+    text-align: center;
+    margin-top:20px;
+}
+
+#seeAllCurrentOpenings{
+    background-color:#3d83df;
+    color:white;
+    color: #fff;
+    font-family: "Roboto", Arial, sans-serif;
+    border-radius: 4px;
+    text-align: center;
+}
+/*...Page Section13 styling ends...*/
+
+
+/*...Page footer styling starts...*/
+#footerP1{
+    font-family: "Roboto", Arial, sans-serif;
+    border-radius: 4px;
+    text-align: center;
+    font-size:12px;
+    font-weight: 300;
+    margin-top:100px;
+    color:rgb(116, 116, 116); 
+}
+
+#footerP1Link1, #footerP1Link2{
+    text-decoration:none;
+    font-family: "Roboto", Arial, sans-serif;
+    border-radius: 4px;
+    text-align: center;
+    font-size:12px;
+    font-weight: 400;
+    color:#3d83df;
+}
+
+#footerP2{
+    font-family: "Roboto", Arial, sans-serif;
+    border-radius: 4px;
+    text-align: center;
+    font-size:12px;
+    font-weight: 300;
+    margin-top:10px;
+    line-height: 20px; 
+    color:rgb(116, 116, 116); 
+}
+
+/*...Page footer styling ends...*/
+
